@@ -42,6 +42,7 @@ The author is not connected to or in any other way affiliated with Kodi, Team Ko
     </news>
   </extension>
 </addon>
+
 <addon id="plugin.video.TVOnline.ro" provider-name="cralin" name="TVOnline.ro" version="19.3.10">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
