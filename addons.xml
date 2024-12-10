@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.video.TVOnline.ro" provider-name="cralin" name="TVOnline.ro" version="20.0.22">
+<addon id="plugin.video.TVOnline.ro" provider-name="cralin" name="TVOnline.ro" version="20.0.24">
   <requires>
     <import addon="xbmc.python" version="3.0.1"/>
     <import addon="script.module.requests" version="2.27.1+matrix.1"/>
@@ -42,6 +42,7 @@ The author is not connected to or in any other way affiliated with Kodi, Team Ko
     </news>
   </extension>
 </addon>
+
 <addon id="plugin.video.TVOnline.ro" provider-name="cralin" name="TVOnline.ro" version="20.0.22">
   <requires>
     <import addon="xbmc.python" version="3.0.1"/>
